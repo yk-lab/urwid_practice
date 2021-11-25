@@ -1,0 +1,7 @@
+[TEST]
+Email=test
+Password=sec1
+
+[HOGE]
+Email=hoge
+Password=sec2
